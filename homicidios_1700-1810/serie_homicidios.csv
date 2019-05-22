@@ -1,4 +1,4 @@
-﻿Signatura,Delito,Fecha inicial,Fecha final,Sindicado,Calidad /  condición,Lugar,Sentencia,Y,X,Comentario,Enlace,Transcripción
+Signatura,Delito,Fecha inicial,Fecha final,Sindicado,Calidad /  condición,Lugar,Sentencia,Y,X,Comentario,Enlace,Transcripción
 "CRIMINALES-JUICIOS:SC.19,99,D.4",Homicidio,1708,,Gregorio Suacha,Indio,Bosa,200 azotes y 4 años de destierros al real de minas de Las Cajas,4.616944,-74.19,,,
 "CRIMINALES-JUICIOS:SC.19,154,D.2",Homicidio,1708,,Francisco Marco,Mulato,Santa Fe,"Conmutación de 400 a 200 azotes, 10 por 4 años de destierro al real de minas de Las Cajas",4.598225,-74.075767,,,
 "CRIMINALES-JUICIOS:SC.19,47,D.30",Homicidio,1709,,Agustín Carisucio,Cholo,Zipaquirá,Refugio en sagrado,5.024722,-74.001389,,,
@@ -46,6 +46,7 @@ CO.AGN.SC.37.66.23yCO.AGN.SC.37.95.45,Homicidio,1742,,Luis Veleño,,,Averiguaci�
 "CRIMINALES-JUICIOS:SC.19,78,D.5",Complicidad en homicidio,1754,1783,Juana Diaz,,,Muerta - Solicitó indulto,,,Indulto general de 1783,http://consulta.archivogeneral.gov.co/ConsultaWeb/showDescripcion?id=2931400,
 "HISTORIA-ECLESIASTICA:SC.30,2,D.41",Homicidio,1754,,Bernardino Orduz,,Sogamoso,En pruebas,5.719259,-72.926705,,,
 "MISCELANEA:SC.39,29,D.37",Homicidio,1754,,Pancho,Cacique,Caledonia,,8.828924668,-77.68676691,,,
+"NEGROS-ESCLAV-VEN:SC.43,1",Homicidio,1754,,Agustín de Abreu,,Maracaibo,Indulto,10.654329,-71.714824,* Conmutación de la pena de presidio de 10 años en Cádiz por destierro por 10 años,,
 "CRIMINALES-JUICIOS:SC.19,114,D.3",Homicidio,1755,1763,José Miranda,,Honda,Indulto,5.206944,-74.736667,Indulto general de 1760,http://consulta.archivogeneral.gov.co/ConsultaWeb/showDescripcion?id=2935146,
 "CACIQUES_INDIOS,46,D.6",Homicidio,1756,,"José Mateo Sánchez Barriga, Juan Antonio Rodríguez Terán y Bernardo Álvarez de Silva",,Ocaña,Remitido a Santa Fe en sumaria,8.235692,-73.353613,,,
 "CRIMINALES-JUICIOS:SC.19,164,D.16",Homicidio,1757,1761,Pablo López,,Garagoa,Indulto,5.082222,-73.363889,Indulto general de 1760,http://consulta.archivogeneral.gov.co/ConsultaWeb/showDescripcion?id=2939010,
@@ -113,6 +114,7 @@ CO.AGN.SC.37.91.123,Homicidio,1773,,Pedro Hernández,,Cartagena,Imágenes no dis
 "CRIMINALES-JUICIOS:SC.19,130,D.45",Homicidio,1776,1803,Manuel Tobar,,Purificación,"Fenecida a favor del reo, multados los jueces de Purificación",3.859216,-74.927204,,,
 "CRIMINALES-JUICIOS:SC.19,72,D.41",Homicidio,1776,,Francisco Méndez,,Tamalameque,"Remisión del Banco, donde estaba preso, a Tamalameque",8.858889,-73.813889,,,
 "CRIMINALES-JUICIOS:SC.19,124,D.12",Homicidio,1776,,Félix Ramírez de Arellano,,Tocaima,Sin concluir,4.457778,-74.634722,* Indio asesinado por el hacendado,,
+"CACIQUES_INDIOS,1,D.33",Homicidio,1776,,Pedro Pantoja,,Cartagena,Que se ponga a seguimiento,10.422655,-75.539547,* Asesinato de un indio,,
 "CRIMINALES-JUICIOS:SC.19,52,D.2",Homicidio,1777,,Antonio de Arocha y Juan Ignacio Vásquez Antolínez,,Guaca,En proceso,6.876944,-72.855556,,,
 "ENCOMIENDAS:SC.25,29,D.32",Homicidio,1777,,Pedro Monguí,Indio,Chita,Indagación,6.187778,-72.4725,,,
 "CRIMINALES-JUICIOS:SC.19,67,D.9",Homicidio,1777,,Juan Julián Navarro,,Panamá,Negada la solicitud de nulidad,8.9525,-79.535,,,
@@ -133,6 +135,7 @@ CO.AGN.SC.37.91.123,Homicidio,1773,,Pedro Hernández,,Cartagena,Imágenes no dis
 "CRIMINALES-JUICIOS:SC.19,47,D.6",Homicidio,1783,,Manuel Mejía,,Vélez,En proceso,6.013056,-73.673611,,,
 "CRIMINALES-JUICIOS:SC.19,159,D.21",Homicidio,1783,,Juan Gabriel Lafuente,,Chita,Indulto,6.187778,-72.4725,Indulto general de 1780 * Indultado pero desterrado de Chita por 10 años,,
 "CRIMINALES-JUICIOS:SC.19,64,D.18",Homicidio,1783,,Eugenio Poveda,,Socorro,Indulto,6.470248,-73.261534,"Indulto general de 1780 / perdón de parte * Se declara indultado pero también desterrado perpetuamente del Socorro, y parroquias de Simacota, Monguí y Charalá.",,http://localhost/fichero/items/show/612
+"NEGROS-ESCLAV-C/MARCA:SC.43,6,D.19",Homicidio,1783,,Pablo Caycedo,Esclavo,Tocaima,Indulto,4.457778,-74.634722,,,
 "CRIMINALES-JUICIOS:SC.19,163,D.24",Homicidio,1784,1785,Juan Olarte,,Lenguazaque,8 años de servicio en las fábricas de Cartagena,5.306944,-73.711667,,,
 "CRIMINALES-JUICIOS:SC.19,17,D.3",Homicidio,1784,,Juan Esteban de Hostos,,Salazar de las Palmas,Absolución,7.773687,-72.813336,,,
 "CRIMINALES-JUICIOS:SC.19,157,D.6",Homicidio,1784,,Francisco Castañeda,,Guateque,Indulto,5.005833,-73.473056,Indulto general de 1780 / perdón de parte,,http://localhost/fichero/items/show/695
@@ -190,6 +193,7 @@ CO.AGN.SC.37.4.36; CO.AGN.SC.37.18.77,Homicidio,1795,1797,Francisco Castillo,Sol
 "CRIMINALES-JUICIOS:SC.19,75,D.6",Homicidio,1795,1804,José Ciriaco Maestre,,Valledupar,2 años de Servicio de las armas en la plaza de Riohacha,10.477467,-73.244434,* Se multa a los alcaldes de Valledupar por haber demorado la causa (la sentencia se dictamina en 1801),,
 "CACIQUES_INDIOS,23,D.36",Homicidio,1795,,Jacinto Martín,Indio gobernador,Pesca,En estado de contestación,5.558889,-73.050278,,,
 CO.AGN.SC.37.130.112,Homicidio,1795,,Nicolás Llanos,Soldado,Cartagena,Imágenes no disponibles,10.422655,-75.539547,,,
+"NEGROS-ESCLAV-MAG:SC.43,2,D.2",Homicidio,1795,,"Juan Víctor López, Juan José Martínez ""Macuto"", y Martín Cortés de Rivera",Mulato,Santa Marta,Pena de muerte,11.243667,-74.211372,"* por los homicidios de unos marineros franceses, que navegaban en Jamaica.",,
 CO.AGN.SC.37.32.5; CO.AGN.SC.37.80.155,Homicidio,1796,1797,José María Orozco,Soldado,Cartagena,10 años de presidio en las fábricas de Cartagena,10.422655,-75.539547,,,
 "CRIMINALES-JUICIOS:SC.19,77,D.10",Homicidio,1796,1798,Alejo Moreno,,Santa Fe,6 años de presidio en las fábricas de Cartagena,4.598225,-74.075767,,,
 "CRIMINALES-JUICIOS:SC.19,100,D.13",Homicidio,1796,1804,Ignacio Gamboa,,Ibagué,Indulto,4.437778,-75.200556,indulto general de 1803,,
@@ -271,6 +275,7 @@ CO.AGN.SC.37.1.2,Homicidio,1802,,José Antonio Pachón,,Santa Fe,Profugo,4.59822
 "CRIMINALES-JUICIOS:SC.19,130,D.63",Homicidio,1804,,Juan Bautista Carranza,,Miraflores,Solicita indulto,5.196389,-73.144444,* El fiscal hace requerir a las justicias de Tunja para que se envíe el expediente,,
 "CRIMINALES-JUICIOS:SC.19,148,D.19",Homicidio,1804,,Juan de la Cruz Camacho,,Santiago de las Atalayas,Solicita indulto,5.119057,-72.587565,"* El fiscal lo hace regresar a las autoridades de Santiago de las Atalayas para que construyan el sumario, esto porque asegura que recientemente estaban recibiendo muchos casos de dicha jurisdicción, lo cual hacía pensar en un exceso de criminalidad en la ciudad que no podía incentivarse otorgando gracias",,
 "CRIMINALES-JUICIOS:SC.19,161,D.28",Homicidio,1804,,Francisco Javier Morocho,,Tamalameque,Solicita indulto,8.858889,-73.813889,"* El expediente termina con la solicitud, no hay resolución",,
+"NEGROS-ESCLAV-ANTIO:SC.43,4,D.17",Homicidio,1804,,Marcos,Esclavo,Rionegro,Indulto,6.15437,-75.37246,,,
 "CACIQUES_INDIOS,44,D.4",Homicidio,1805,1806,Ignacio Bustamante,,Natagaima,10 años de presidio en Cartagena / Ausente,3.623056,-75.093611,* asesinato de un indio,,
 "CRIMINALES-JUICIOS:SC.19,83,D.15",Homicidio,1805,1806,José Norberto Rodríguez,,Santa Fe,5 años de presidio en Cartagena,4.598225,-74.075767,,,
 "CRIMINALES-JUICIOS:SC.19,70,D.11",Homicidio,1805,1806,Francisco Antonio Pulgar,,Cúcuta,8 años de presidio en Cartagena,7.886378,-72.504331,,,
@@ -329,5 +334,3 @@ CO.AGN.SC.37.48.41,Homicidio,1809,,Manuel María Lores,,Cartagena,Solicita se le
 "CRIMINALES-JUICIOS:SC.19,105,D.7",Homicidio,1809,,Rafael Lesmes,,Santa Fe,Solicita traslado al hospital,4.598225,-74.075767,,,
 "CACIQUES_INDIOS,24,D.16",Homicidio,1810,,Miguel Barragán,Indio gobernador,Nobsa,Absuelto,5.769722,-72.94,,,
 "CRIMINALES-JUICIOS:SC.19,14,D.30; CRIMINALES-JUICIOS:SC.19,14,D.32",Homicidio,1810,,Juan de la Mata Martínez,,Bituima,En pruebas,4.874444,-74.540556,* Expediente incompleto,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
